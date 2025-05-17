@@ -1,3 +1,9 @@
-# url-shortener
+# url-modifiers
 
-An extension for Firefox to create short URLs easily.
+An extension for Firefox for URL modifiers.
+
+### Current features:
+<ul>
+  <li>Shorten URL</li>
+  <li>Create QR Code</li>
+</ul>
